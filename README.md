@@ -1,8 +1,11 @@
 # V-d-h-c-github
+
 Hello everyone, my name is Kevin.
-I am a student who is studying Energy Materials Engineer in Ho Chi Minh University of Technology, Viet Nam National University.
-This is my first repo which is used for learning github
-and I want to learn about: 
-Semiconductor Materials,
-AI agent 
-and bulding a web named SemiAtlas which is used for Semiconductor Industry.
+
+I am a student studying Energy Materials Engineering at Ho Chi Minh City University of Technology, Vietnam National University.
+
+This is my first repo, which I use for learning GitHub. I want to learn about:
+
+- Semiconductor materials
+- AI agents
+- Building a website named SemiAtlas for the semiconductor industry
